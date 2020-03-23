@@ -1,0 +1,5 @@
+.idea
+camera
+dominant_color.py
+__pycache__/
+objects/__pycache__/
